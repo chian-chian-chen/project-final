@@ -46,8 +46,8 @@ body {
   position: fixed;
   width: 300px;
   height: 450px;
-  left: 450px;
-  top: 150px;
+  left: 700px;
+  top: 100px;
   padding: 0px 20px 30px 20px;
   background-color: #7394bf;
   color: #fff;
@@ -149,7 +149,7 @@ body {
 
 .heart {
   position: fixed;
-  margin-top: 550px;
+  margin-top: 400px;
   animation-name: heartmove;
   animation-duration: 5s;
   animation-iteration-count: infinite;
@@ -201,5 +201,5 @@ body {
 img {
   position: fixed;
   margin-top: 250px;
-  margin-left: 100px;
+  margin-left: 200px;
 }
